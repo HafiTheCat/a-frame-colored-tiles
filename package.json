@@ -1,0 +1,24 @@
+{
+	"name": "noise-try",
+	"version": "0.1.0",
+	"description": "Tried to display different colored tiles with A-frame",
+	"author": "HafiTheCat <https://github.com/HafiTheCat>",
+	"license": "MIT",
+	"scripts": {
+		"start": "live-server --port=7000"
+	},
+	"devDependencies": {
+		"live-server": "^1.2.0"
+	},
+	"keywords": [
+		"aframe",
+		"aframe-example",
+		"aframe-boilerplate",
+		"aframe-scene",
+		"webvr",
+		"vr"
+	],
+	"dependencies": {
+		"aframe": "^1.3.0"
+	}
+}
