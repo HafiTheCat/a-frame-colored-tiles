@@ -11,4 +11,5 @@ Here's an example: [Open Visual](https://hafithecat.github.io/a-frame-colored-ti
 
 # ❗
 When running locally, the imports from `/components/` may need to be modified in the `index.html` file.
+
 Because the github-pages site is hosted under a route rather than the root.
